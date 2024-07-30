@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## A Jornada da IA: Um Passeio pelo presente e Futuro 🌌
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foram desenvolvidos, com o auxílio de ferramentas generativas, um vídeo e uma apresentação de slides. Ambos abordam a IA, sua história, desafios e o futuro da tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Microsoft Copilot](https://copilot.microsoft.com/)** para roteirização.
+- IA Generativa **[Gamma App AI](https://gamma.app/)** para gerar apresentações, imagens e texto.
+- IA Generativa **[Synthesia io](https://app.synthesia.io/)** para gerar vídeo e avatar.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Na primeira etapa, utilizei o Microsoft Copilot para pesquisa e desenvolvimento do roteiro para o vídeo. Escolhi o Gamma App para desenvolver uma apresentação. Dentro da plataforma, 
+  configurei toda a apresentação, após apresentar o tema a plataforma desenvolveu toda a estrutura de acordo com o que havia solicitado.
+- No vídeo de apresentação, usei o texto da pesquisa obtida no Copilot. Fiz as escolhas do avatar, voz e arte exibida no vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Breve apresentação sobre a história da IA - **[Apresentação no Gamma App](https://gamma.app/docs/Historia-da-Inteligencia-Artificial-20707rq855stt45)**  
+Vídeo de apresentação com avatar realista sobre a IA - **[Apresentação em vídeo no Synthesia](https://app.synthesia.io/#/video/68fe44c2-34ce-43d5-abd0-46fd0d0dcd9f)**
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Sempre fico surpreso e maravilhado com o potencial dessas ferramentas. As possibilidades parecem ser infinitas e estão cada vez mais surpreendentes. Proporcionam qualidade e aumento de produtividade em poucos cliques.
